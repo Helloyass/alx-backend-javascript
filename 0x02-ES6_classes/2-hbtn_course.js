@@ -1,5 +1,5 @@
 /**
- * Represents a Holberton Course.      
+ * Represents a Holberton Course.
  */
 export default class HolbertonCourse {
   /**
